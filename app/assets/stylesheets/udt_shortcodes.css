@@ -88,14 +88,14 @@
 
 	/*Preset colors*/
 	span.dropcap {float:left; font-size:60px; line-height:50px; padding-right:15px; padding-top:4px;}
-	span.dropcap.theme{ color:#27CCC0;}
+	span.dropcap.theme{ color:#002673;}
 	span.dropcap.yellow{ color:#f5cd0c;}
 	span.dropcap.orange{ color:#f47400;}
 	span.dropcap.red{ color:#ef644e;}
 	span.dropcap.green{ color:#32d284;}
 	span.dropcap.blue{ color:#40aae3;}
 	span.dropcap.navy{ color:#425b71;}
-	span.dropcap.turquoise{ color:#27CCC0;}
+	span.dropcap.turquoise{ color:#002673;}
 	span.dropcap.purple{ color:#ad72c4;}
 	span.dropcap.gray{ color:#999999;}
 	span.dropcap.darkGray{ color:#333;}
@@ -108,26 +108,26 @@
 	em { font-style:italic; }	
 
 		/*Preset colors*/
-		strong.theme{ color:#fff; background:#27CCC0 ;padding:0 3px;}
+		strong.theme{ color:#fff; background:#002673 ;padding:0 3px;}
 		strong.yellow{ color:#fff; background:#f5cd0c ;padding:0 3px;}
 		strong.orange{ color:#fff; background:#f47400 ;padding:0 3px;}
 		strong.red{ color:#fff; background:#ef644e ;padding:0 3px;}
 		strong.green{ color:#fff; background:#32d284 ;padding:0 3px;}
 		strong.blue{ color:#fff; background:#40aae3 ;padding:0 3px;}
 		strong.navy{ color:#fff; background:#425b71 ;padding:0 3px;}
-		strong.turquoise{ color:#fff; background:#27CCC0 ;padding:0 3px;}
+		strong.turquoise{ color:#fff; background:#002673 ;padding:0 3px;}
 		strong.purple{ color:#fff; background:#ad72c4 ;padding:0 3px;}
 		strong.gray{ color:#fff; background:#999999 ;padding:0 3px;}
 		strong.darkGray{ color:#fff; background:#333 ;padding:0 3px;}
 		strong.white{ color:#111; background:#fff ;padding:0 3px;}
-		em.theme{ color:#fff; background:#27CCC0 ;padding:0 3px;}
+		em.theme{ color:#fff; background:#002673 ;padding:0 3px;}
 		em.yellow{ color:#fff; background:#f5cd0c ;padding:0 3px;}
 		em.orange{ color:#fff; background:#f47400 ;padding:0 3px;}
 		em.red{ color:#fff; background:#ef644e ;padding:0 3px;}
 		em.green{ color:#fff; background:#32d284 ;padding:0 3px;}
 		em.blue{ color:#fff; background:#40aae3 ;padding:0 3px;}
 		em.navy{ color:#fff; background:#425b71 ;padding:0 3px;}
-		em.turquoise{ color:#fff; background:#27CCC0 ;padding:0 3px;}
+		em.turquoise{ color:#fff; background:#002673 ;padding:0 3px;}
 		em.purple{ color:#fff; background:#ad72c4 ;padding:0 3px;}
 		em.gray{ color:#fff; background:#999999 ;padding:0 3px;}
 		em.darkGray{ color:#fff; background:#333 ;padding:0 3px;}
@@ -325,7 +325,7 @@
 	text-decoration:none;text-transform:uppercase;padding:0 18px;border:0;cursor:pointer;outline:0;margin:0 0 30px 0;-webkit-appearance: none;border-bottom:0 !important;border-radius:0px;text-shadow:none;height:45px;line-height:45px;transition: all .25s ease-in-out;-moz-transition: all .25s ease-in-out;-webkit-transition: all .25s ease-in-out; display: inline-block;}
 
 		/*Colors*/
-		.submitTheme{ color:#fff !important; background:#27CCC0 !important;}
+		.submitTheme{ color:#fff !important; background:#002673 !important;}
 		.submitBlue{ color:#fff !important; background:#40aae3 !important;}
 		.submitDarkGray{ color:#fff !important; background:#333 !important;}
 		.submitGray{ color:#fff !important; background:#999999 !important;}
@@ -334,7 +334,7 @@
 		.submitOrange{ color:#fff !important; background:#f47400 !important;}
 		.submitPurple{ color:#fff !important; background:#ad72c4 !important;}
 		.submitRed{ color:#fff !important; background:#ef644e !important;}
-		.submitTurquoise{ color:#fff !important; background:#27CCC0 !important;}
+		.submitTurquoise{ color:#fff !important; background:#002673 !important;}
 		.submitWhite{ color:#111 !important; background:#fff !important;}
 		.submitYellow{ color:#fff !important; background:#f5cd0c !important;}
 
@@ -437,7 +437,7 @@
 	.chart-container ul.chart{float:none; margin:0; list-style:none; font-family: 'Source Sans Pro', Arial, sans-serif; word-wrap:normal;}
 	.chart-container ul.chart li{float:none; width: 100%; margin-bottom: 15px;}
 	.chart-container ul.chart li h6{font-family: 'Source Sans Pro', Arial, sans-serif;font-size:13px; color:#999; font-weight:normal;margin-bottom:10px;}
-	.chart-container ul.chart li div.bar{padding-right:15px;background:#27ccc0;border-radius: 20px;font-weight:normal; font-size:17px; color:#fff;height:20px;line-height:18px;text-align:right;text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.1);box-shadow: 0 -3px 0 rgba(0, 0, 0, 0) inset !important;transition: opacity .25s ease-in-out;-moz-transition: opacity .25s ease-in-out;-webkit-transition: opacity .25s ease-in-out;}
+	.chart-container ul.chart li div.bar{padding-right:15px;background:#002673;border-radius: 20px;font-weight:normal; font-size:17px; color:#fff;height:20px;line-height:18px;text-align:right;text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.1);box-shadow: 0 -3px 0 rgba(0, 0, 0, 0) inset !important;transition: opacity .25s ease-in-out;-moz-transition: opacity .25s ease-in-out;-webkit-transition: opacity .25s ease-in-out;}
 	.chart-container ul.chart li div.bar:hover{box-shadow: 0 0 0 rgba(0, 0, 0, 0) inset !important;filter: alpha(opacity=70);opacity: 0.7;}
 	.chart-container ul.chart li div.bar-track{ width: 100%; background: #e6e6e6; box-shadow:none; border-radius: 20px;}
 
@@ -448,7 +448,7 @@
 	ul.socialSmall {float:left; list-style:none;margin:0 auto 30px auto; overflow:hidden;display:table;}
 	ul.socialSmall li{display:inline; float:left; margin: 0;}
 	ul.socialSmall li.social-label{font-style:italic; font-size:12px;margin-right:8px; line-height:22px;}
-	ul.socialSmall li a{background-repeat: no-repeat;float:left;width:24px;height:24px;margin-right:5px;background-position: center;background-color:#27CCC0;box-shadow:0 -3px 0 rgba(0,0,0,0) inset;background-position:center; border-radius:50%;padding:3px;transition: all .25s ease-in-out;-moz-transition: all .25s ease-in-out;-webkit-transition: all .25s ease-in-out;}
+	ul.socialSmall li a{background-repeat: no-repeat;float:left;width:24px;height:24px;margin-right:5px;background-position: center;background-color:#002673;box-shadow:0 -3px 0 rgba(0,0,0,0) inset;background-position:center; border-radius:50%;padding:3px;transition: all .25s ease-in-out;-moz-transition: all .25s ease-in-out;-webkit-transition: all .25s ease-in-out;}
 	ul.socialSmall li a:hover{box-shadow: 0 0 0 rgba(0, 0, 0, 0) inset;opacity:0.5;filter: alpha(opacity=50); color:#fff;}
 	ul.socialSmall li:last-child a{margin-right: 0;}
 	ul.socialSmall li a.pinterest{background-image:url(../images/ui_shortcodes/social/pinterest-small.png);}
