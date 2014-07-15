@@ -8,6 +8,6 @@ class PagesController < ApplicationController
   def apparel
   end
 
-  def contact
+  def submit
   end
 end

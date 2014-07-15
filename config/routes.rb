@@ -4,7 +4,7 @@ Rails.application.routes.draw do
   get "apparel" => "pages#apparel"
   get "tshirts" => "pages#tshirts"
   get "snapbacks" => "pages#snapbacks"
-  get "contact" => "pages#contact"
+  get "submit" => "pages#submit"
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

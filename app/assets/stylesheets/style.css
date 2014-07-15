@@ -122,7 +122,7 @@
 		
 		/* Main menu
 		----------------------------*/
-		header nav#primary-nav ul{list-style:none;font-size:26px;text-transform:uppercase;margin-bottom: 50px;}
+		header nav#primary-nav ul{list-style:none;font-size:20px;text-transform:uppercase;margin-bottom: 50px;}
 		header nav#primary-nav ul.mobile-navigation {width:100%; max-width:100%;margin: 0;}
 		header nav#primary-nav ul li{position: relative; margin: 0;}
 		header nav#primary-nav ul li:after{content:""; width:170px; height:0px;position:absolute; bottom:0px;left:0;}
@@ -138,7 +138,7 @@
 			header nav#primary-nav ul li ul.sub-menu li:after,header nav#primary-nav ul li ul.children li:after{width: 140px;left:20px;}
 			header nav#primary-nav ul li ul.sub-menu li:last-child:after,header nav#primary-nav ul li ul.children li:last-child:after{border: none;}
 			header nav#primary-nav ul li ul.sub-menu li:last-child,header nav#primary-nav ul li ul.children li:last-child{border-bottom:none;}
-			header nav#primary-nav ul li ul.sub-menu li a,header nav#primary-nav ul li ul.children li a{font-size:26px;line-height:22px;text-transform:uppercase;font-weight:bold;color:#999; padding: 12px 0;}
+			header nav#primary-nav ul li ul.sub-menu li a,header nav#primary-nav ul li ul.children li a{font-size:20px;line-height:22px;text-transform:uppercase;font-weight:bold;color:#999; padding: 12px 0;}
 			header nav#primary-nav ul li ul.sub-menu li:first-child a,header nav#primary-nav ul li ul.children li:first-child a{padding-top: 18px;}
 			header nav#primary-nav ul li ul.sub-menu li:last-child a,header nav#primary-nav ul li ul.children li:last-child a{padding-bottom: 18px;}
 			header nav#primary-nav ul li ul.sub-menu li a:hover,header nav#primary-nav ul li ul.children li a:hover{color:#002673;}
