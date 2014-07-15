@@ -448,34 +448,34 @@
 	ul.socialSmall {float:left; list-style:none;margin:0 auto 30px auto; overflow:hidden;display:table;}
 	ul.socialSmall li{display:inline; float:left; margin: 0;}
 	ul.socialSmall li.social-label{font-style:italic; font-size:12px;margin-right:8px; line-height:22px;}
-	ul.socialSmall li a{background-repeat: no-repeat;float:left;width:24px;height:24px;margin-right:5px;background-position: center;background-color:#002673;box-shadow:0 -3px 0 rgba(0,0,0,0) inset;background-position:center; border-radius:50%;padding:3px;transition: all .25s ease-in-out;-moz-transition: all .25s ease-in-out;-webkit-transition: all .25s ease-in-out;}
+	ul.socialSmall li a{background-repeat: no-repeat;float:left;width:45px;height:45px;margin-right:5px;background-position: center;background-color:#002673;box-shadow:0 -3px 0 rgba(0,0,0,0) inset;background-position:center; border-radius:50%;padding:3px;transition: all .25s ease-in-out;-moz-transition: all .25s ease-in-out;-webkit-transition: all .25s ease-in-out;}
 	ul.socialSmall li a:hover{box-shadow: 0 0 0 rgba(0, 0, 0, 0) inset;opacity:0.5;filter: alpha(opacity=50); color:#fff;}
 	ul.socialSmall li:last-child a{margin-right: 0;}
-	ul.socialSmall li a.pinterest{background-image:url(../images/ui_shortcodes/social/pinterest-small.png);}
-	ul.socialSmall li a.twitter{background-image:url(../images/ui_shortcodes/social/twitter-small.png);}
-	ul.socialSmall li a.facebook{background-image:url(../images/ui_shortcodes/social/facebook-small.png);}
-	ul.socialSmall li a.skype{background-image:url(../images/ui_shortcodes/social/skype-small.png);}
-	ul.socialSmall li a.forrst{background-image:url(../images/ui_shortcodes/social/forrst-small.png);}
-	ul.socialSmall li a.googleplus{background-image:url(../images/ui_shortcodes/social/googleplus-small.png);}
-	ul.socialSmall li a.flickr{background-image:url(../images/ui_shortcodes/social/flickr-small.png);}
-	ul.socialSmall li a.myspace{background-image:url(../images/ui_shortcodes/social/myspace-small.png);}
-	ul.socialSmall li a.vimeo{background-image:url(../images/ui_shortcodes/social/vimeo-small.png);}
-	ul.socialSmall li a.dribbble{background-image:url(../images/ui_shortcodes/social/dribbble-small.png);}
-	ul.socialSmall li a.linkedin{background-image:url(../images/ui_shortcodes/social/linkedin-small.png);}
-	ul.socialSmall li a.youtube{background-image:url(../images/ui_shortcodes/social/youtube-small.png);}
-	ul.socialSmall li a.vine{background-image:url(../images/ui_shortcodes/social/vine-small.png);}
-	ul.socialSmall li a.spotify{background-image:url(../images/ui_shortcodes/social/spotify-small.png);}
-	ul.socialSmall li a.rss{background-image:url(../images/ui_shortcodes/social/rss-small.png);}
-	ul.socialSmall li a.instagram{background-image:url(../images/ui_shortcodes/social/instagram-small.png);}
-	ul.socialSmall li a.github{background-image:url(../images/ui_shortcodes/social/github-small.png);}
-	ul.socialSmall li a.behance{background-image:url(../images/ui_shortcodes/social/behance-small.png);}
-	ul.socialSmall li a.deviantart{background-image:url(../images/ui_shortcodes/social/deviantart-small.png);}
-	ul.socialSmall li a.soundcloud{background-image:url(../images/ui_shortcodes/social/soundcloud-small.png);}
-	ul.socialSmall li a.android{background-image:url(../images/ui_shortcodes/social/android-small.png);}
-	ul.socialSmall li a.apple{background-image:url(../images/ui_shortcodes/social/apple-small.png);}
-	ul.socialSmall li a.windows{background-image:url(../images/ui_shortcodes/social/windows-small.png);}
-	ul.socialSmall li a.tumblr{background-image:url(../images/ui_shortcodes/social/tumblr-small.png);}
-	ul.socialSmall li a.fivehundredpx{background-image:url(../images/ui_shortcodes/social/500-small.png);}
+	ul.socialSmall li a.pinterest{background-image:url(../images/ui_shortcodes/social/pinterest-white.png);}
+	ul.socialSmall li a.twitter{background-image:url(../images/ui_shortcodes/social/twitter-white.png);}
+	ul.socialSmall li a.facebook{background-image:url(../images/ui_shortcodes/social/facebook-white.png);}
+	ul.socialSmall li a.skype{background-image:url(../images/ui_shortcodes/social/skype-white.png);}
+	ul.socialSmall li a.forrst{background-image:url(../images/ui_shortcodes/social/forrst-white.png);}
+	ul.socialSmall li a.googleplus{background-image:url(../images/ui_shortcodes/social/googleplus-white.png);}
+	ul.socialSmall li a.flickr{background-image:url(../images/ui_shortcodes/social/flickr-white.png);}
+	ul.socialSmall li a.myspace{background-image:url(../images/ui_shortcodes/social/myspace-white.png);}
+	ul.socialSmall li a.vimeo{background-image:url(../images/ui_shortcodes/social/vimeo-white.png);}
+	ul.socialSmall li a.dribbble{background-image:url(../images/ui_shortcodes/social/dribbble-white.png);}
+	ul.socialSmall li a.linkedin{background-image:url(../images/ui_shortcodes/social/linkedin-white.png);}
+	ul.socialSmall li a.youtube{background-image:url(../images/ui_shortcodes/social/youtube-white.png);}
+	ul.socialSmall li a.vine{background-image:url(../images/ui_shortcodes/social/vine-white.png);}
+	ul.socialSmall li a.spotify{background-image:url(../images/ui_shortcodes/social/spotify-white.png);}
+	ul.socialSmall li a.rss{background-image:url(../images/ui_shortcodes/social/rss-white.png);}
+	ul.socialSmall li a.instagram{background-image:url(../images/ui_shortcodes/social/instagram-white.png);}
+	ul.socialSmall li a.github{background-image:url(../images/ui_shortcodes/social/github-white.png);}
+	ul.socialSmall li a.behance{background-image:url(../images/ui_shortcodes/social/behance-white.png);}
+	ul.socialSmall li a.deviantart{background-image:url(../images/ui_shortcodes/social/deviantart-white.png);}
+	ul.socialSmall li a.soundcloud{background-image:url(../images/ui_shortcodes/social/soundcloud-white.png);}
+	ul.socialSmall li a.android{background-image:url(../images/ui_shortcodes/social/android-white.png);}
+	ul.socialSmall li a.apple{background-image:url(../images/ui_shortcodes/social/apple-white.png);}
+	ul.socialSmall li a.windows{background-image:url(../images/ui_shortcodes/social/windows-white.png);}
+	ul.socialSmall li a.tumblr{background-image:url(../images/ui_shortcodes/social/tumblr-white.png);}
+	ul.socialSmall li a.fivehundredpx{background-image:url(../images/ui_shortcodes/social/500-white.png);}
 
 
 	ul.socialSmall.white li a.pinterest{background-image:url(../images/ui_shortcodes/social/pinterest-small-white.png);}

@@ -498,11 +498,11 @@
 	/*Wrappers
 	----------------------------*/
 	#footer-wrapper{clear:both;margin-left: 250px;}
-	#footer-wrapper #footer-top{ max-width:870px; padding:50px 0 0; margin:0 0 0 40px;border-top:1px solid #e6e6e6;}
+	#footer-wrapper #footer-top{ max-width:870px; padding:40px 0 0; margin:0 0 0 40px;border-top:1px solid #e6e6e6;}
 	#footer-wrapper #footer-top footer .column-footer-widget{margin-bottom:0 !important;}
 	#footer-wrapper #footer-bottom {max-width:870px;margin:0 0 0 40px;border-top:1px solid #e6e6e6;}
 	#footer-wrapper #footer-bottom #footer-bottom-inner-wrapper{height:120px;text-align:left; display:table;}
-	#footer-wrapper #footer-bottom #footer-bottom-inner-wrapper footer{display:table-cell; vertical-align:middle; width:100%; text-align:left; padding: 20px 0;}
+	#footer-wrapper #footer-bottom #footer-bottom-inner-wrapper footer{display:table-cell; vertical-align:middle; width:100%; text-align:left; padding: 10px 0;}
 	#footer-wrapper #footer-bottom #footer-bottom-inner-wrapper footer p.footer-copyright{margin:3px 0 0; font-size:11px;}
 	#footer-wrapper #footer-top footer .column-footer-widget h4.widget-title{font-size:15px; line-height:15px; text-transform: uppercase;color:#999;margin-bottom:20px;}
 	#footer-wrapper #footer-top footer .column-footer-widget h4.widget-title span {font-weight: bold;}
